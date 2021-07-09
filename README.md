@@ -5,7 +5,7 @@ Bot That Opens a Online Twitch Streamer With a Drops Enabled.
 
 - [.NET](https://dotnet.microsoft.com/) i required to run the bot.
 
-
+___
 
 What does it do?
 
